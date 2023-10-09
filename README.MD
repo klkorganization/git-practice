@@ -5,6 +5,9 @@ feature-1 commit 2
 feature-1 commit 3
 feature-1 commit-4
 
-Feature-2
-commit 1 </br>
-commit 2 </br>
+### Feature-2
+commit 1 <br />
+commit 2 <br />
+
+### Feature 3
+commit 1 <br />
