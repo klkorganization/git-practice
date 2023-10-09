@@ -13,3 +13,6 @@ commit 2 <br />
 commit 1 <br />
 commit 2 <br />
 commit 3 <br />
+
+## Feature 4
+commit 1 <br />
